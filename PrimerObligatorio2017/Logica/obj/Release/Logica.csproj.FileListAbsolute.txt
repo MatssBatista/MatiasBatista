@@ -1,0 +1,36 @@
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Logica\bin\Release\Logica.dll
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Logica\bin\Release\Logica.pdb
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Logica\bin\Release\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Logica\bin\Release\Persistencia.dll
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Logica\bin\Release\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Logica\bin\Release\Persistencia.pdb
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Logica\obj\Release\Logica.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Logica\obj\Release\Logica.dll
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Logica\obj\Release\Logica.pdb
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Logica\bin\Release\Logica.dll
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Logica\bin\Release\Logica.pdb
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Logica\bin\Release\EntidadesCompartidas.dll
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Logica\bin\Release\Persistencia.dll
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Logica\bin\Release\EntidadesCompartidas.pdb
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Logica\bin\Release\Persistencia.pdb
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Logica\obj\Release\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Logica\obj\Release\Logica.dll
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Logica\obj\Release\Logica.pdb
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Logica\bin\Release\Logica.dll
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Logica\bin\Release\Logica.pdb
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Logica\bin\Release\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Logica\bin\Release\Persistencia.dll
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Logica\bin\Release\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Logica\bin\Release\Persistencia.pdb
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Logica\obj\Release\Logica.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Logica\obj\Release\Logica.dll
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Logica\obj\Release\Logica.pdb
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\PrimerObligatorio2017\Logica\bin\Release\Logica.dll
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\PrimerObligatorio2017\Logica\bin\Release\Logica.pdb
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\PrimerObligatorio2017\Logica\bin\Release\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\PrimerObligatorio2017\Logica\bin\Release\Persistencia.dll
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\PrimerObligatorio2017\Logica\bin\Release\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\PrimerObligatorio2017\Logica\bin\Release\Persistencia.pdb
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\PrimerObligatorio2017\Logica\obj\Release\Logica.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\PrimerObligatorio2017\Logica\obj\Release\Logica.dll
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\PrimerObligatorio2017\Logica\obj\Release\Logica.pdb

@@ -1,0 +1,26 @@
+﻿
+<asp:Button runat="server" BackColor="#006666" BorderColor="Black" BorderStyle="Solid" BorderWidth="2px" 
+                        ForeColor="#CCFFCC" />
+<asp:TextBox runat="server" BorderColor="Black" BorderWidth="1px" Font-Italic="True" 
+                        ForeColor="Black"></asp:TextBox>
+<asp:Label runat="server" style="color: #000000;" Font-Bold="True" ForeColor="#336699"></asp:Label>
+
+<asp:LinkButton runat="server" Font-Italic="True" Font-Bold="True" ForeColor="#00CCFF"></asp:LinkButton>
+
+<asp:DropDownList  runat="server" Font-Bold="False" Font-Italic="True" Font-Strikeout="False" ForeColor="#004F4F"></asp:DropDownList>
+
+ <asp:Calendar runat="server" BackColor="White" BorderColor="White" 
+                        BorderWidth="1px" Font-Names="Verdana" Font-Size="9pt" ForeColor="Black" 
+                        Height="190px" NextPrevFormat="FullMonth" Width="350px">
+                        <DayHeaderStyle Font-Bold="True" Font-Size="8pt" />
+                        <NextPrevStyle Font-Bold="True" Font-Size="8pt" ForeColor="#333333" 
+                            VerticalAlign="Bottom" />
+                        <OtherMonthDayStyle ForeColor="#999999" />
+                        <SelectedDayStyle BackColor="#333399" ForeColor="White" />
+                        <TitleStyle BackColor="White" BorderColor="Black" BorderWidth="4px" 
+                            Font-Bold="True" Font-Size="12pt" ForeColor="#333399" />
+                        <TodayDayStyle BackColor="#CCCCCC" />
+                    </asp:Calendar>
+<asp:Image runat="server" ImageUrl="~/Imagen/fondo.png" />
+
+

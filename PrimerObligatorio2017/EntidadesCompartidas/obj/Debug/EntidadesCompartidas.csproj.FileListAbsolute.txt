@@ -1,0 +1,24 @@
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\Obligatorio\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\PrimerObligatorio2017Matias\PrimerObligatorio2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\PrimerObligatorio2017Matias\PrimerObligatorio2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\PrimerObligatorio2017Matias\PrimerObligatorio2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\PrimerObligatorio2017Matias\PrimerObligatorio2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Alvaro\ALVARO\PrimerObligatorio2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Alvaro\ALVARO\PrimerObligatorio2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Alvaro\ALVARO\PrimerObligatorio2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Alvaro\ALVARO\PrimerObligatorio2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb

@@ -1,0 +1,28 @@
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Controles\bin\Debug\Controles.dll
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Controles\bin\Debug\Controles.pdb
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Controles\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Controles\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Controles\obj\Debug\Controles.dll
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Controles\obj\Debug\Controles.pdb
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Controles\bin\Debug\Controles.dll
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Controles\bin\Debug\Controles.pdb
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Controles\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Controles\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Controles\obj\Debug\Controles.dll
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Controles\obj\Debug\Controles.pdb
+C:\Users\usuario\Desktop\Alvaro\ultima modificacion\PrimerObligatorio2017\Controles\bin\Debug\Controles.dll
+C:\Users\usuario\Desktop\Alvaro\ultima modificacion\PrimerObligatorio2017\Controles\bin\Debug\Controles.pdb
+C:\Users\usuario\Desktop\Alvaro\ultima modificacion\PrimerObligatorio2017\Controles\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Alvaro\ultima modificacion\PrimerObligatorio2017\Controles\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Alvaro\ultima modificacion\PrimerObligatorio2017\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Alvaro\ultima modificacion\PrimerObligatorio2017\Controles\obj\Debug\Controles.dll
+C:\Users\usuario\Desktop\Alvaro\ultima modificacion\PrimerObligatorio2017\Controles\obj\Debug\Controles.pdb
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Controles\bin\Debug\Controles.dll
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Controles\bin\Debug\Controles.pdb
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Controles\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Controles\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Controles\obj\Debug\Controles.dll
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Controles\obj\Debug\Controles.pdb

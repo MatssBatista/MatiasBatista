@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="Inicio" description="Inicio" url="">
+    <siteMapNode title="Propiedades" description="Propiedades" url="">
+      <siteMapNode title="Casas" description="Casas" url="~/ABMCasas.aspx" />
+      <siteMapNode title="Apartamentos" description=" Apartamentos" url="~/ABMApartamento.aspx" />
+      <siteMapNode title="Locales Comerciales" description="Locales Comerciales" url="~/ABMLocalComercial.aspx" />
+    </siteMapNode>
+
+    <siteMapNode title="Zonas" description="Zonas" url="">
+      <siteMapNode title="Zonas" description="Zonas" url="~/ABMZonas.aspx" />
+    </siteMapNode>
+
+    <siteMapNode title="Empleado" description="Empleado" url="">
+      <siteMapNode title="Empleado" description="Empleado" url="~/ABMEmpleado.aspx" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

@@ -1,0 +1,42 @@
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\Obligatorio\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\Obligatorio\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\Obligatorio\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\Obligatorio\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\Obligatorio\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\Obligatorio\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\Primer Obligatorio 2017\Obligatorio\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\PrimerObligatorio2017Matias\PrimerObligatorio2017\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\PrimerObligatorio2017Matias\PrimerObligatorio2017\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\PrimerObligatorio2017Matias\PrimerObligatorio2017\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\PrimerObligatorio2017Matias\PrimerObligatorio2017\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\PrimerObligatorio2017Matias\PrimerObligatorio2017\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\PrimerObligatorio2017Matias\PrimerObligatorio2017\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\PrimerObligatorio2017Matias\PrimerObligatorio2017\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\Alvaro\PrimerObligatorio2017\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Alvaro\Desktop\PrimerObligatorio2017\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\Alvaro\ALVARO\PrimerObligatorio2017\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\Alvaro\ALVARO\PrimerObligatorio2017\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\Alvaro\ALVARO\PrimerObligatorio2017\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Alvaro\ALVARO\PrimerObligatorio2017\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Alvaro\ALVARO\PrimerObligatorio2017\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Alvaro\ALVARO\PrimerObligatorio2017\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\Alvaro\ALVARO\PrimerObligatorio2017\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\usuario\Desktop\Primer Obligatorio2017Matias\PrimerObligatorio2017\Persistencia\obj\Debug\Persistencia.pdb
